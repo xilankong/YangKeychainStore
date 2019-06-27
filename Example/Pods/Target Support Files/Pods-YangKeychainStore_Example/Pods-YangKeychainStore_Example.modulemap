@@ -1,0 +1,6 @@
+framework module Pods_YangKeychainStore_Example {
+  umbrella header "Pods-YangKeychainStore_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

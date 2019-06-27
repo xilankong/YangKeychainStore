@@ -1,0 +1,23 @@
+PODS:
+  - KeychainSwift (16.0.1)
+  - YangKeychainStore (0.1.0):
+    - KeychainSwift
+
+DEPENDENCIES:
+  - YangKeychainStore (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - KeychainSwift
+
+EXTERNAL SOURCES:
+  YangKeychainStore:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KeychainSwift: 4209611373ca4a098e09b1e547eebd87c544dcc4
+  YangKeychainStore: 69af76b04a2a02bb2adc18f3b618e88731ca281f
+
+PODFILE CHECKSUM: 9bed19ff3767157573eeda9d4e01277ceb852a6b
+
+COCOAPODS: 1.7.2
